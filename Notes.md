@@ -2,8 +2,18 @@
 
 
 
-### Rust language
+### PHP notes
 
-* [Interesting app simulating different material particles interaction, written in rust](<https://sandspiel.club/>)
-* [Rust cookbok - good practices examples](<https://rust-lang-nursery.github.io/rust-cookbook/>)
+Checking which ``php.ini`` configuration file is used
+
+```bash
+php --ini
+```
+
+Php configuration is loaded in following order:
+
++ php.ini file
++ php.ini files from ``conf.d`` folder
++ Apache configuration files
++ Source code
 
