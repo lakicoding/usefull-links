@@ -12,8 +12,8 @@ php --ini
 
 Php configuration is loaded in following order:
 
-+ php.ini file
-+ php.ini files from ``conf.d`` folder
++ ``php.ini`` file
++ ``php.ini`` files from ``conf.d`` folder
 + Apache configuration files
 + Source code
 
