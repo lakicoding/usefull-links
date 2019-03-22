@@ -4,7 +4,9 @@
 
 ### PHP notes
 
-Checking which ``php.ini`` configuration file is used
+---
+
+#### Checking which ``php.ini`` configuration file is used
 
 ```bash
 php --ini
