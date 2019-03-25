@@ -22,3 +22,8 @@
 
 * [Magenta - Make music and art using Machine learning](<https://magenta.tensorflow.org/>)
 
+
+
+### Compilers
+
+* [Building interpreter from scratch](http://www.craftinginterpreters.com/introduction.html)
